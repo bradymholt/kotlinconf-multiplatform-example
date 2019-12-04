@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6e3c36f-98c2-4057-be9b-d8f2d1a76bbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/KotlinMultiPlatform_js_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/KotlinMultiPlatform_jvm_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.iosX64Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.iosX64Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.jsMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.jsTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.jvmMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.jvmTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.macosMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.macosTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.commonMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.commonMain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.commonTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.ynab.KotlinMultiPlatform.commonTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KotlinMultiPlatform" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KotlinMultiPlatform" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KotlinMultiPlatform" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KotlinMultiPlatform" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KotlinMultiPlatform" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UVmTx0tp0FTL04FK4FmHyZJGQB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/commonMain/kotlin/com/ynab" />
+      <recent name="$PROJECT_DIR$/src/commonMain/kotlin" />
+      <recent name="$PROJECT_DIR$/src/commonTest/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.KotlinMultiPlatform [publishToMavenLocal]">
+    <configuration name="KotlinMultiPlatform [allTests]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="allTests" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KotlinMultiPlatform [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KotlinMultiPlatform [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="check" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KotlinMultiPlatform [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KotlinMultiPlatform [publishToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishToMavenLocal" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.KotlinMultiPlatform [publishToMavenLocal]" />
+        <item itemvalue="Gradle.KotlinMultiPlatform [build]" />
+        <item itemvalue="Gradle.KotlinMultiPlatform [clean]" />
+        <item itemvalue="Gradle.KotlinMultiPlatform [allTests]" />
+        <item itemvalue="Gradle.KotlinMultiPlatform [check]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6e3c36f-98c2-4057-be9b-d8f2d1a76bbf" name="Default Changelist" comment="" />
+      <created>1575450147900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575450147900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="277" key="#Project_Structure" timestamp="1575453973141">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="277" key="#Project_Structure/0.23.1920.1177@0.23.1920.1177" timestamp="1575453973141" />
+    <state x="672" y="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575453303442">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="672" y="421" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1575453303442" />
+    <state x="536" y="284" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575453921469">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="536" y="284" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1575453921469" />
+    <state x="587" y="214" key="CommitChangelistDialog2" timestamp="1575455650805">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="587" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1575455650805" />
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom" timestamp="1575457951366">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1575457951366" />
+    <state width="1878" height="328" key="GridCell.Tab.0.center" timestamp="1575457951365">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1575457951365" />
+    <state width="1878" height="328" key="GridCell.Tab.0.left" timestamp="1575457951364">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1575457951364" />
+    <state width="1878" height="328" key="GridCell.Tab.0.right" timestamp="1575457951365">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1575457951365" />
+    <state width="1878" height="329" key="GridCell.Tab.1.bottom" timestamp="1575454072096">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="329" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1575454072096" />
+    <state width="1878" height="329" key="GridCell.Tab.1.center" timestamp="1575454072096">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="329" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1575454072096" />
+    <state width="1878" height="329" key="GridCell.Tab.1.left" timestamp="1575454072096">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="329" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1575454072096" />
+    <state width="1878" height="329" key="GridCell.Tab.1.right" timestamp="1575454072096">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="329" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1575454072096" />
+    <state x="548" y="361" key="IDE.errors.dialog" timestamp="1575450890770">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="548" y="361" key="IDE.errors.dialog/0.23.1920.1177@0.23.1920.1177" timestamp="1575450890770" />
+    <state x="149" y="250" key="SettingsEditor" timestamp="1575450202714">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="149" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1575450202714" />
+    <state x="639" y="444" key="com.intellij.ide.util.TipDialog" timestamp="1575450924123">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="639" y="444" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1575450924123" />
+    <state x="354" y="225" key="new project wizard" timestamp="1575457947127">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="354" y="225" key="new project wizard/0.23.1920.1177@0.23.1920.1177" timestamp="1575457947127" />
+    <state x="305" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1575454909121">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="305" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1575454909121" />
+  </component>
+</project>
